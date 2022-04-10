@@ -1,0 +1,2 @@
+# matlab_fuzzy
+用matlab代码创建一个模糊控制器文件fis
